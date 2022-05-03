@@ -1,0 +1,7 @@
+{
+    "[java]": {
+        "editor.tabSize": 2,
+    },
+    "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true
+}
